@@ -20,6 +20,10 @@ a {
     color: #fff;
 }
 
+.mybtn {
+    padding-left: 15px ;
+}
+
 a:hover {
     color: #ccc;
 }
